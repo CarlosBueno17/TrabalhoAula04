@@ -1,0 +1,8 @@
+C:\Users\famil\source\repos\AtividadeAula04\AtividadeAula04\bin\Debug\AtividadeAula04.exe.config
+C:\Users\famil\source\repos\AtividadeAula04\AtividadeAula04\bin\Debug\AtividadeAula04.exe
+C:\Users\famil\source\repos\AtividadeAula04\AtividadeAula04\bin\Debug\AtividadeAula04.pdb
+C:\Users\famil\source\repos\AtividadeAula04\AtividadeAula04\obj\Debug\AtividadeAula04.csproj.AssemblyReference.cache
+C:\Users\famil\source\repos\AtividadeAula04\AtividadeAula04\obj\Debug\AtividadeAula04.csproj.SuggestedBindingRedirects.cache
+C:\Users\famil\source\repos\AtividadeAula04\AtividadeAula04\obj\Debug\AtividadeAula04.csproj.CoreCompileInputs.cache
+C:\Users\famil\source\repos\AtividadeAula04\AtividadeAula04\obj\Debug\AtividadeAula04.exe
+C:\Users\famil\source\repos\AtividadeAula04\AtividadeAula04\obj\Debug\AtividadeAula04.pdb
